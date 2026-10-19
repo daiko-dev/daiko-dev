@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daiko-dev&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00C6FB&icon_color=00C6FB&text_color=ffffff&custom_title=Daiko's%20GitHub%20Stats" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=daiko-dev&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00C6FB&icon_color=00C6FB&text_color=ffffff&custom_title=Daiko's%20GitHub%20Stats&count_private=true" height="170" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daiko-dev&theme=react&hide_border=true&background=0D1117&ring=00C6FB&fire=00C6FB&curr=00C6FB&sideLabels=true" height="170" alt="GitHub Streak" />
 
 
@@ -134,9 +134,10 @@
 ## 🏅 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daiko-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Achievements" />
+  <a href="https://github.com/daiko-dev">
+    <img src="https://github-profile-achievements.vercel.app/api/achievements?username=daiko-dev&theme=react" alt="GitHub Achievements" />
+  </a>
 </div>
-
 ---
 
 <!-- 🚀 Let's Connect -->
