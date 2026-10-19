@@ -129,14 +129,11 @@
 
 ---
 
-<!-- 🏅 GitHub Achievements -->
-
-## 🏅 GitHub Achievements
+<!-- 🏅 Activity Overview -->
+## 🏅 Activity Overview
 
 <div align="center">
-  <a href="https://github.com/daiko-dev">
-    <img src="https://github-profile-achievements.vercel.app/api/achievements?username=daiko-dev&theme=react" alt="GitHub Achievements" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daiko-dev&theme=react" alt="GitHub Summary" width="80%" />
 </div>
 ---
 
