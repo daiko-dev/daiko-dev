@@ -1,112 +1,174 @@
-# 👋 Hi, I'm Daiko!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b8e,50:00c6fb,100:007cf0&height=180&section=header&text=Daiko&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=FullStack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=14" width="100%"/>
 
-### 💻 FullStack Developer | 🤖 AI Enthusiast | 🌐 Problem Solver
+<div align="center">
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FB&center=true&vCenter=true&random=false&width=620&lines=console.log(%22hi%2C+i'm+daiko+%F0%9F%91%8B%22);const+role+%3D+'FullStack+Developer';dev.stack.push('AI+%2B+Web');%F0%9F%9A%80+let's+build+something" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- 🎮 Pacman Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ---
 
-## 🎯 About Me
+<!-- 📊 GitHub Stats -->
 
-I'm a passionate **FullStack Developer** with some years of experience working on diverse projects and technologies. I specialize in creating robust, scalable, and user-friendly applications that bridge the gap between elegant frontend design and powerful backend architecture.
+<div align="center">
 
-🚀 **What I Do:**
-- Build modern web applications from concept to deployment
-- Architect scalable backend systems and APIs
-- Create responsive and intuitive user interfaces
-- Integrate AI tools to enhance development workflows
+<img src="https://github-readme-stats.vercel.app/api?username=daikodev&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00C6FB&icon_color=00C6FB&text_color=ffffff" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daikodev&theme=react&hide_border=true&background=0D1117&ring=00C6FB&fire=00C6FB&curr=00C6FB&sideLabels=true" height="170" alt="GitHub Streak" />
 
-🧠 **AI & Modern Development:**
-I master the use of cutting-edge AI assistants including **Claude Code**, **Gemini/Antigravity**, **MCP (Model Context Protocol)**, and other AI-powered development tools to accelerate development and solve complex problems efficiently.
+<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daikodev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FB&line=00C6FB&point=0f9b8e" width="90%" alt="Activity Graph" />
+
+</div>
 
 ---
+
+<!-- 🎯 About Me -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFz0bN4l4SQ5g/giphy.gif" width="32px" /> About Me
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👋 The short version</h3>
+      <p>Hey, I'm <b>Daiko</b> — a developer who genuinely enjoys the messy middle where backend logic meets frontend craft. I spend my days turning ambiguous problems into clean, maintainable code, and my evenings poking at new tools just to see what they can do.</p>
+      <p align="center"><i>"I'd rather debug a heisenbug than write boilerplate."</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔭 Currently building</h3>
+      <ul>
+        <li>Production-grade web apps with <b>Next.js</b> + <b>TypeScript</b></li>
+        <li>Backend APIs that scale without losing their soul</li>
+        <li>Embedding <b>Claude Code</b> & <b>Gemini</b> deep in my dev loop</li>
+        <li>Experiments with <b>MCP (Model Context Protocol)</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Learning</h3>
+      <ul>
+        <li>Distributed systems & event-driven architectures</li>
+        <li>Edge runtime internals (Cloudflare Workers, Vercel Edge)</li>
+        <li>Agentic patterns & better prompting for code work</li>
+        <li>When <b>not</b> to reach for AI in a pipeline</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Open to</h3>
+      <ul>
+        <li>Open-source collaboration</li>
+        <li>Side projects with people who care about craft</li>
+        <li>Mentoring developers breaking into fullstack</li>
+        <li>Conversations about AI in software engineering</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 🌍 Languages -->
 
 ## 🌍 Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spanish-FFD43B?style=for-the-badge&logo=spanish&logoColor=black" alt="Spanish">
-  <img src="https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=english&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Espa%C3%B1ol-Native-FFD43B?style=for-the-badge&labelColor=1A1A1A" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-Fluent-1E90FF?style=for-the-badge&labelColor=1A1A1A" alt="English">
 </div>
 
 ---
+
+<!-- 💻 Tech Stack -->
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</div>
 
-### ⚙️ Backend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Frontend" />
 
-### 🗄️ Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</div>
+<br/><br/>
 
-### 🛠️ DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
-</div>
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,cs,c,cpp,python&perline=5" alt="Backend" />
 
-### ☁️ Cloud & Deployment
-<div align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-</div>
+<br/><br/>
 
-### 🤖 AI & Modern Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=github&logoColor=white" alt="MCP">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma&perline=4" alt="Databases" />
+
+<br/><br/>
+
+<h3>🛠️ DevOps & Tools</h3>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,npm,yarn&perline=6" alt="DevOps & Tools" />
+
+<br/><br/>
+
+<h3>☁️ Cloud & Deployment</h3>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare&perline=3" alt="Cloud & Deployment" />
+
+<br/><br/>
+
+<h3>🤖 AI & Modern Tools</h3>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=openaiinitiative&logoColor=white" alt="MCP">
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+
 </div>
 
 ---
+
+<!-- 🏆 GitHub Trophies -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daikodev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- 🚀 Let's Connect -->
 
 ## 🚀 Let's Connect
 
-I'm always open to **collaboration** and exciting new projects! Whether it's Frontend, Backend, or full-stack development, let's explore both universes together.
-
 <div align="center">
 
-**💼 Portfolio:** https://dkalfredfolio.vercel.app/
+I'm always open to **collaboration** and side projects that take craft seriously.  
+Frontend, backend, full-stack, or agentic — let's explore both universes together.
 
----
+<br/>
 
-### ⚡ Fun Fact
-Curious about blending frontend flair with backend brains? Let's chat! I love tackling challenging problems and turning ideas into reality.
+<a href="https://dkalfredfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-dkalfredfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/daikodev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-daikodev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="mailto:hello@example.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14856?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
----
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aneal07&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=daikodev&label=Profile%20Views&color=00C6FB&style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-<div align="center">
-  <i>Thanks for stopping by! Happy Coding! 👨‍💻✨</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b8e,50:00c6fb,100:007cf0&height=120&section=footer" width="100%"/>
