@@ -13,7 +13,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
@@ -24,12 +24,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daikodev&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00C6FB&icon_color=00C6FB&text_color=ffffff" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daikodev&theme=react&hide_border=true&background=0D1117&ring=00C6FB&fire=00C6FB&curr=00C6FB&sideLabels=true" height="170" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=daiko-dev&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00C6FB&icon_color=00C6FB&text_color=ffffff&custom_title=Daiko's%20GitHub%20Stats" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daiko-dev&theme=react&hide_border=true&background=0D1117&ring=00C6FB&fire=00C6FB&curr=00C6FB&sideLabels=true" height="170" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daikodev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FB&line=00C6FB&point=0f9b8e" width="90%" alt="Activity Graph" />
 
 </div>
 
@@ -132,10 +129,12 @@
 
 ---
 
-<!-- 🏆 GitHub Trophies -->
+<!-- 🏅 GitHub Achievements -->
+
+## 🏅 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daikodev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daiko-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Achievements" />
 </div>
 
 ---
@@ -155,8 +154,8 @@ Frontend, backend, full-stack, or agentic — let's explore both universes toget
   <img src="https://img.shields.io/badge/Portfolio-dkalfredfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 &nbsp;
-<a href="https://github.com/daikodev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-daikodev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/daiko-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-daiko--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
 <a href="mailto:hello@example.com">
@@ -165,7 +164,7 @@ Frontend, backend, full-stack, or agentic — let's explore both universes toget
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=daikodev&label=Profile%20Views&color=00C6FB&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=daiko-dev&label=Profile%20Views&color=00C6FB&style=for-the-badge&logo=github)
 
 </div>
 
