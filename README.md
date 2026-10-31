@@ -148,16 +148,16 @@ Frontend, backend, full-stack, or agentic — let's explore both universes toget
 
 <br/>
 
-<a href="https://dkalfredfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-dkalfredfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<a href="https://daikodev.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-daikodev.com-00C6FB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio">
 </a>
 &nbsp;
 <a href="https://github.com/daiko-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-daiko--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
-<a href="mailto:hello@example.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14856?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:contact@daikodev.com">
+  <img src="https://img.shields.io/badge/Email-contact%40daikodev.com-D14856?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br/><br/>
